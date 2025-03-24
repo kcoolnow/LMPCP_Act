@@ -17,3 +17,8 @@ Tume, P., Cornejo, Ó., Rubio, C., Sepúlveda, B., Roca, N., & Bech, J. (2023). 
 Wan, S., Xia, M., Tao, J., Pang, Y., Yu, F., Wu, J., & Chen, S. (2021). Metagenomics analysis reveals the microbial communities, antimicrobial resistance gene diversity and potential pathogen transmission risk of two different landfills in china. Diversity, 13(6), 230\. doi:[https://doi.org/10.3390/d13060230](https://doi.org/10.3390/d13060230)
 
 Logan, D. (2020). Landfill mining still a rarity despite potential benefits, experts say. *Waste Dive.* [https://www.wastedive.com/news/landfill-mining-challenges-costs-benefits-aei/582026/](https://www.wastedive.com/news/landfill-mining-challenges-costs-benefits-aei/582026/)
+
+
+---
+
+*This document is part of the [Landfill Mining Prevention and Community Protection (LaMPCoP) Act](https://github.com/kcoolnow/LaMPCoP_Act), provided by [COOLNow](https://coolnow.org) (Compostable Organics Out of Landfills Now), a program of [Zero Waste USA](https://zerowasteusa.org). Licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).*
