@@ -217,3 +217,6 @@ Effective implementation of this prevention-focused communication framework requ
 
 By following this roadmap and these recommendations, implementing agencies and communities can ensure that the Landfill Mining Prevention and Community Protection Act achieves its primary goal of preventing landfill mining while providing comprehensive protections in the rare cases where communities might choose to allow it.
 
+---
+
+*This document is part of the [Landfill Mining Prevention and Community Protection (LaMPCoP) Act](https://github.com/kcoolnow/LaMPCoP_Act), provided by [COOLNow](https://coolnow.org) (Compostable Organics Out of Landfills Now), a program of [Zero Waste USA](https://zerowasteusa.org). Licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).*
