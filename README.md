@@ -1,4 +1,4 @@
-# **Landfill Mining Prevention and Community Protection Model Legislation**
+# **Landfill Mining Prevention and Community Protection Model Legislation (LaMPCoP Act)**
 
 ## **Overview**
 
