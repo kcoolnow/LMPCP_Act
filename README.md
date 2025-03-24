@@ -6,19 +6,17 @@ The **Landfill Mining Prevention and Community Protection Act** is a comprehensi
 
 This repository provides the full text of the model legislation along with essential supporting materials to enhance public understanding and engagement.
 
-## **Contents**
-
 This repository includes:
 
-* **Model Legislation** – The full text of the **Landfill Mining Prevention and Community Protection Act**, detailing regulatory requirements, community protections, financial assurances, and enforcement mechanisms.
+* **[Model Legislation](Landfill_Mining_Prevention_and_Community_Protection_Model_State_Legislation_-_V8.md)** – The full text of the **Landfill Mining Prevention and Community Protection Act**, detailing regulatory requirements, community protections, financial assurances, and enforcement mechanisms.
 
-* **Plain Language Overview** – A simplified explanation of the legislation, ensuring accessibility for all stakeholders, regardless of legal or technical expertise.
+* **[Plain Language Overview](Landfill_Mining_Prevention_Act_Plain_Language_Overview.md)** – A simplified explanation of the legislation, ensuring accessibility for all stakeholders, regardless of legal or technical expertise.
 
-* **What This Means for You** – A guide that helps community members understand how the legislation affects their daily lives, health, and property.
+* **[What This Means for You](Landfill_Mining_Prevention_Act_What_this_Means_for_You.md)** – A guide that helps community members understand how the legislation affects their daily lives, health, and property.
 
-* **Community Bill of Rights** – A declaration of rights that empowers affected communities by clearly outlining their legal protections and participatory rights.
+* **[Community Bill of Rights](Landfill_Mining_Prevention_Act_-_Community_Bill_of_Rights.md)** – A declaration of rights that empowers affected communities by clearly outlining their legal protections and participatory rights.
 
-* **Plain Language Materials Development Guide** – A framework for creating accessible, clear, and inclusive materials that help communities engage with landfill mining policies and regulations.
+* **[Plain Language Materials Development Guide](Landfill_Mining_Prevention_Act_Plain_Language_Materials_Development_Guide.md)** – A framework for creating accessible, clear, and inclusive materials that help communities engage with landfill mining policies and regulations.
 
 ## **Why This Matters**
 
