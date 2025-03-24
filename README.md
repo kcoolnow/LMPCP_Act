@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-The **Landfill Mining Prevention and Community Protection Act** is a comprehensive model legislation designed to safeguard communities and the environment from the potential hazards of landfill mining. This model bill establishes stringent oversight, community protections, and financial accountability measures to ensure that any landfill mining activities, if allowed, are conducted responsibly and with substantial benefits to affected communities.
+The **Landfill Mining Prevention and Community Protection Act (LaMPCoP Act)** is a comprehensive model legislation designed to safeguard communities and the environment from the potential hazards of landfill mining. This model bill establishes stringent oversight, community protections, and financial accountability measures to ensure that any landfill mining activities, if allowed, are conducted responsibly and with substantial benefits to affected communities.
 
 This repository provides the full text of the model legislation along with essential supporting materials to enhance public understanding and engagement.
 
