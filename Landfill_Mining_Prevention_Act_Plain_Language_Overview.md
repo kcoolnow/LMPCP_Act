@@ -198,3 +198,7 @@ Resources available to help you understand and use this law include:
 
 *This overview summarizes the Landfill Mining Prevention and Community Protection Act in plain language. The law is designed to prevent landfill mining except in extraordinary circumstances where communities themselves choose to allow it, with comprehensive protections if such operations ever occur. For specific questions, please contact the Prevention Assistance Office.*
 
+---
+
+*This document is part of the [Landfill Mining Prevention and Community Protection (LaMPCoP) Act](https://github.com/kcoolnow/LaMPCoP_Act), provided by [COOLNow](https://coolnow.org) (Compostable Organics Out of Landfills Now), a program of [Zero Waste USA](https://zerowasteusa.org). Licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).*
+
