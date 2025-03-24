@@ -167,3 +167,7 @@ For assistance with exercising your rights, contact:
 
 *This Bill of Rights summarizes key protections provided by the Landfill Mining Prevention and Community Protection Act. While this document presents these rights in plain language, the full legal text of the legislation governs in all cases.*
 
+---
+
+*This document is part of the [Landfill Mining Prevention and Community Protection (LaMPCoP) Act](https://github.com/kcoolnow/LaMPCoP_Act), provided by [COOLNow](https://coolnow.org) (Compostable Organics Out of Landfills Now), a program of [Zero Waste USA](https://zerowasteusa.org). Licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).*
+
