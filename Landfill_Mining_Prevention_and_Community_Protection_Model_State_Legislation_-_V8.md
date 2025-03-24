@@ -3109,3 +3109,6 @@ Section 2\. And be it further enacted, that this act shall take effect \[insert 
 
 \[To be followed by detailed technical specifications and implementation guidance\]
 
+---
+
+*This document is part of the [Landfill Mining Prevention and Community Protection (LaMPCoP) Act](https://github.com/kcoolnow/LaMPCoP_Act), provided by [COOLNow](https://coolnow.org) (Compostable Organics Out of Landfills Now), a program of [Zero Waste USA](https://zerowasteusa.org). Licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).*
