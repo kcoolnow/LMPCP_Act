@@ -2,6 +2,11 @@ Research and Citations:
 
 [https://www.nclive.org/](https://www.nclive.org/) \- a north carolina library access point for research papers.
 
+Northern Plains Resource Council (n.d.). *Good neighbor agreement*. Retrieved March 26, 2025, from [https://northernplains.org/good-neighbor-agreement/](https://northernplains.org/good-neighbor-agreement/)
+
+Ucilia Wang. (2018). *Why aren’t we mining landfills for valuable materials like metals and soil?*  
+[https://ensia.com/features/landfill-mining/](https://ensia.com/features/landfill-mining/)
+
 Zari, M. (2023). Environmental and economic implications of landfill mining: A critical assessment. \[PhD thesis, University of Nottingham\]. Nottingham ePrints. [https://eprints.nottingham.ac.uk/76992/](https://eprints.nottingham.ac.uk/76992/) 
 
 Gurusamy, S., & Thangam, R. S. P. (2023). Potential health risk assessment of contaminants in soil-like material recovered from landfill mining. Environmental Monitoring and Assessment, 195(2), 330\. doi:[https://doi.org/10.1007/s10661-022-10850-x](https://doi.org/10.1007/s10661-022-10850-x)
