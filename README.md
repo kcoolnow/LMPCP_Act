@@ -42,7 +42,7 @@ State legislators, policymakers, environmental advocates, and community organize
 We welcome collaboration, feedback, and contributions to improve and adapt this model legislation. If you have suggestions or would like to contribute, feel free to open an issue or submit a pull request.
 
 * 📧 **Contact:** Please use the "Issues" area to contact for now. This may change in the future. 
-* ℹ️ **Version:** 8.0.0
+* ℹ️ **Version:** 8.1.1
 * 📜 **License:** This work is licensed under a [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/) CC BY 4.0 license.
 * You are free to share and adapt this material for any purpose, including commercially, as long as you give appropriate credit, provide a link to the license, and indicate if changes were made.
 
