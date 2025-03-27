@@ -118,3 +118,8 @@ Rather than introducing a new concept, this legislation acknowledges a trend tha
 ### Won't most landfill mining operations trigger CERCLA anyway, making this legislation redundant?
 
 While landfill disturbance may eventually trigger CERCLA in some cases, this legislation fills critical gaps in the federal framework: (1) CERCLA is primarily reactive, responding after contamination occurs, whereas our framework is preventative; (2) CERCLA enforcement can be lengthy and contentious, with responsible parties often litigating for years; (3) CERCLA addresses cleanup but doesn't ensure community economic benefits or decision-making power; (4) Federal funding for Superfund sites has historically been insufficient; and (5) CERCLA triggers aren't automatic—they require demonstrating releases above specific thresholds. This legislation ensures communities maintain sovereignty over their resources rather than becoming passive recipients of a federal process they don't control. It acknowledges that if landfill mining will happen in some form, it should happen under terms that prioritize community protection and benefit.
+
+
+---
+
+*This document is part of the [Landfill Mining Prevention and Community Protection (LaMPCoP) Act](https://github.com/kcoolnow/LaMPCoP_Act), provided by [COOLNow](https://coolnow.org) (Compostable Organics Out of Landfills Now), a program of [Zero Waste USA](https://zerowasteusa.org). Licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/).*
