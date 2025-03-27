@@ -434,7 +434,75 @@ This legislation establishes eight integrated components for the regulation of l
       5. Ecological resources assessment, including:  
          1. Habitat mapping  
          2. Species inventory  
-         3. Identification of sensitive or protected areas
+         3. Identification of sensitive or protected areas  
+4. **Specialized Industrial Waste Site Characterization**  
+   1. Additional Pre-Disturbance Assessment Requirements  
+      1. For industrial waste sites, mining tailings, and specialized waste deposits, applicants must complete:  
+         1. Historical process analysis including:  
+            1. Comprehensive review of all industrial processes that generated the waste  
+            2. Documentation of all chemicals, reagents, and additives used in processes  
+            3. Analysis of process changes over the operational life of the facility  
+            4. Identification of potential contaminants of concern based on process history  
+            5. Expert consultation with industrial process specialists relevant to the waste type  
+         2. Enhanced geophysical investigation including:  
+            1. High-resolution geophysical surveys to characterize internal structure  
+            2. Specialized scanning for radioactive material detection where applicable  
+            3. Thermal imaging to identify potential reaction zones or hot spots  
+            4. Advanced ground penetration techniques appropriate to the specific waste type  
+            5. Three-dimensional modeling of waste deposits and surrounding geology  
+         3. Comprehensive sampling protocol including:  
+            1. Stratified random sampling at minimum density of 2 cores per acre  
+            2. Depth-discrete sampling to characterize vertical heterogeneity  
+            3. Sequential extraction testing for metals mobility and bioavailability  
+            4. Acid generation potential testing for mining and metal processing wastes  
+            5. Radiological screening for all mining and mineral processing wastes  
+   2. Specialized Waste Characterization  
+      1. Core samples from industrial waste sites must be analyzed for:  
+         1. Site-specific contaminants including:  
+            1. Full suite of metals and metalloids relevant to the industrial process  
+            2. Process-specific organic compounds and their degradation products  
+            3. Radionuclides for mining and mineral processing wastes  
+            4. Leachability under multiple environmental conditions  
+            5. Reactivity with air, water, and biological processes  
+         2. Physical properties including:  
+            1. Grain size distribution and homogeneity assessment  
+            2. Moisture content and water holding capacity  
+            3. Structural stability and consolidation characteristics  
+            4. Thermal properties and heat generation potential  
+            5. Gas generation potential under various conditions  
+         3. Resource recovery assessment:  
+            1. Concentrations of potentially recoverable materials  
+            2. Spatial distribution of valuable components  
+            3. Separation potential from contaminants and matrix materials  
+            4. Technical and economic feasibility of recovery technologies  
+            5. Material compatibility with existing recycling infrastructure  
+   3. Expert Consultation Requirements  
+      1. Applicants must engage qualified specialists including:  
+         1. Industrial process experts familiar with the specific waste-generating industry  
+         2. Mining engineers for tailings and mining waste assessments  
+         3. Radiological experts for sites with potential radioactive components  
+         4. Geological and hydrogeological specialists with industrial waste experience  
+         5. Materials scientists with expertise in relevant recovery technologies  
+      2. Expert consultation must include:  
+         1. Independent review of all characterization plans and results  
+         2. Written opinions on sampling adequacy and data quality  
+         3. Risk identification specific to the waste type and proposed operation  
+         4. Technological feasibility assessment for recovery operations  
+         5. Site-specific recommendations for specialized controls and monitoring  
+   4. Risk Profile Development  
+      1. Based on characterization data, applicants must develop:  
+         1. Comprehensive risk profile including:  
+            1. Chemical risks specific to the waste type  
+            2. Physical stability risks during excavation and processing  
+            3. Airborne contamination potentials during disturbance  
+            4. Groundwater and surface water contamination pathways  
+            5. Potential for chemical reactions during excavation and processing  
+         2. Risk mitigation strategies including:  
+            1. Specialized containment systems for identified risks  
+            2. Enhanced monitoring protocols for site-specific contaminants  
+            3. Emergency response procedures for waste-specific incidents  
+            4. Specialized training requirements for workers and responders  
+            5. Adaptive management triggers based on waste characteristics
 
 ### B. Environmental Controls
 
