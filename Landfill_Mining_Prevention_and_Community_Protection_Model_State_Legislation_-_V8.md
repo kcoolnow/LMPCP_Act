@@ -1,4 +1,4 @@
-# **LANDFILL MINING PREVENTION AND COMMUNITY PROTECTION ACT (LaMPCoP Act)**
+# **LANDFILL MINING PREVENTION AND COMMUNITY PROTECTION ACT**
 
 ## **SUMMARY**
 
@@ -111,7 +111,13 @@ This legislation is guided by the following principles:
 2. Closed or abandoned landfills  
 3. Dump sites  
 4. Waste storage areas  
-5. Any location where waste materials have been buried or stored
+5. Any location where waste materials have been buried or stored  
+6. Mining tailings impoundments and disposal areas  
+7. Coal ash ponds, impoundments, and landfills  
+8. Industrial waste lagoons and specialized disposal sites  
+9. Historical mining waste areas and ore processing waste deposits  
+10. Metallurgical processing waste sites  
+11. Chemical manufacturing waste disposal areas
 
 "Community Protection Zone" means the area within a 5-mile radius of any proposed landfill mining activity, with particular attention to:
 
